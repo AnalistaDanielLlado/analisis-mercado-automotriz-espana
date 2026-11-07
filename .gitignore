@@ -1,9 +1,22 @@
+# Python
 __pycache__/
-.ipynb_checkpoints/
-*.pyc
-.env
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
 venv/
+.env
 .env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
 .DS_Store
 Thumbs.db
 *.log
